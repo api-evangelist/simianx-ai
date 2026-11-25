@@ -1,4 +1,4 @@
-# simianx-ai
+# SimianX AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-simianx-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://simianx.ai/
+SimianX AI is a Los Angeles‑based multi‑agent AI company that provides real‑time analysis of US stocks and crypto assets. It combines specialized AI agents to read charts, news, fundamentals and SEC data, delivering live market insights, automated trading experiments, research reports, and API access for developers. The platform offers features such as AI model leaderboards, autopilot trading strategies, daily digests, and a command‑room interface for collaborative market analysis.
+
+**Areas:** AI · Finance · MarketData · MultiAgent · LosAngeles
+
+## SimianX AI on APIs.io
+
+Everything profiled for SimianX AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/simianx-ai/](https://apis.io/providers/simianx-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [SimianX AI Analysis API](https://apis.io/apis/simianx-ai/simianx-ai-analysis-api/) — The Analysis API from SimianX AI — 13 operation(s) for analysis.
+- [SimianX AI Auth API](https://apis.io/apis/simianx-ai/simianx-ai-auth-api/) — The Auth API from SimianX AI — 4 operation(s) for auth.
+- [SimianX AI Autopilots API](https://apis.io/apis/simianx-ai/simianx-ai-autopilots-api/) — The Autopilots API from SimianX AI — 10 operation(s) for autopilots.
+- [SimianX AI Feedback API](https://apis.io/apis/simianx-ai/simianx-ai-feedback-api/) — The Feedback API from SimianX AI — 1 operation(s) for feedback.
+- [SimianX AI Help API](https://apis.io/apis/simianx-ai/simianx-ai-help-api/) — The Help API from SimianX AI — 2 operation(s) for help.
+- [SimianX AI Instruments API](https://apis.io/apis/simianx-ai/simianx-ai-instruments-api/) — The Instruments API from SimianX AI — 1 operation(s) for instruments.
+- [SimianX AI Keys API](https://apis.io/apis/simianx-ai/simianx-ai-keys-api/) — The Keys API from SimianX AI — 2 operation(s) for keys.
+- [SimianX AI Live API](https://apis.io/apis/simianx-ai/simianx-ai-live-api/) — The Live API from SimianX AI — 2 operation(s) for live.
+- [SimianX AI Market API](https://apis.io/apis/simianx-ai/simianx-ai-market-api/) — The Market API from SimianX AI — 3 operation(s) for market.
+- [SimianX AI Me API](https://apis.io/apis/simianx-ai/simianx-ai-me-api/) — The Me API from SimianX AI — 1 operation(s) for me.
+- [SimianX AI Models API](https://apis.io/apis/simianx-ai/simianx-ai-models-api/) — The Models API from SimianX AI — 1 operation(s) for models.
+- [SimianX AI News API](https://apis.io/apis/simianx-ai/simianx-ai-news-api/) — The News API from SimianX AI — 6 operation(s) for news.
+- [SimianX AI Openapi.json API](https://apis.io/apis/simianx-ai/simianx-ai-openapi-json-api/) — The Openapi.json API from SimianX AI — 1 operation(s) for openapi.json.
+- [SimianX AI Pricing API](https://apis.io/apis/simianx-ai/simianx-ai-pricing-api/) — The Pricing API from SimianX AI — 1 operation(s) for pricing.
+- [SimianX AI Pulse API](https://apis.io/apis/simianx-ai/simianx-ai-pulse-api/) — The Pulse API from SimianX AI — 2 operation(s) for pulse.
+- [SimianX AI Quotes API](https://apis.io/apis/simianx-ai/simianx-ai-quotes-api/) — The Quotes API from SimianX AI — 1 operation(s) for quotes.
+- [SimianX AI Rewards API](https://apis.io/apis/simianx-ai/simianx-ai-rewards-api/) — The Rewards API from SimianX AI — 3 operation(s) for rewards.
+- [SimianX AI Sectors API](https://apis.io/apis/simianx-ai/simianx-ai-sectors-api/) — The Sectors API from SimianX AI — 11 operation(s) for sectors.
+- [SimianX AI Settings API](https://apis.io/apis/simianx-ai/simianx-ai-settings-api/) — The Settings API from SimianX AI — 1 operation(s) for settings.
+- [SimianX AI Skill API](https://apis.io/apis/simianx-ai/simianx-ai-skill-api/) — The Skill API from SimianX AI — 1 operation(s) for skill.
+- [SimianX AI Updates API](https://apis.io/apis/simianx-ai/simianx-ai-updates-api/) — The Updates API from SimianX AI — 1 operation(s) for updates.
+- [SimianX AI Usage API](https://apis.io/apis/simianx-ai/simianx-ai-usage-api/) — The Usage API from SimianX AI — 1 operation(s) for usage.
+- [SimianX AI Webhooks API](https://apis.io/apis/simianx-ai/simianx-ai-webhooks-api/) — The Webhooks API from SimianX AI — 4 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SimianX AI Agentic Access](https://apis.io/agentic-access/simianx-ai/simianx-ai-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [Event](https://apis.io/schemas/simianx-ai/simianx-ai-event/)
+- [PaperState](https://apis.io/schemas/simianx-ai/simianx-ai-paper-state/)
+- [Position](https://apis.io/schemas/simianx-ai/simianx-ai-position/)
+- [TimeframeChanged](https://apis.io/schemas/simianx-ai/simianx-ai-timeframe-changed/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Simianx Ai Context](https://apis.io/jsonld/simianx-ai/simianx-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SimianX AI API Rules](https://apis.io/rules/simianx-ai/simianx-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SimianX AI Authentication](https://apis.io/security/simianx-ai/simianx-ai-authentication/)
+- [SimianX AI Domain Security](https://apis.io/security/simianx-ai/simianx-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SimianX AI Plans Pricing](https://apis.io/plans/simianx-ai/simianx-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.simianx.ai/)
+- [Documentation](https://www.simianx.ai/help)
+- [Pricing](https://www.simianx.ai/pricing)
+- [Terms of service](https://www.simianx.ai/legal/terms)
+- [Privacy policy](https://www.simianx.ai/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 45.6** — developing · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 48.5 |
+
+**Agent readiness 52.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/simianx-ai/](https://apis.io/providers/simianx-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SimianX AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/simianx-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
